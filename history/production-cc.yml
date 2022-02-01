@@ -1,7 +1,7 @@
-url: https://web.sia.dev.principal.com.mx
-status: up
-code: 200
-responseTime: 257
-lastUpdated: 2022-02-01T19:28:33.350Z
+url: http://produccion.charlycloudy.com
+status: down
+code: 500
+responseTime: 162
+lastUpdated: 2022-02-01T19:32:09.566Z
 startTime: Tue Feb 01 2022 19:13:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
